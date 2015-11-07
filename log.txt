@@ -1,0 +1,29 @@
+commit 3c584004a71d2c191da470016a4b3a23ec4e70cc
+Author: David Consa <cbdavid14@gmail.com>
+Date:   Sat Nov 7 02:05:13 2015 -0500
+
+    registre mi info
+
+commit 707da7fc17a39882f1804404fa3f5a816cbf27c0
+Author: David Consa <cbdavid14@gmail.com>
+Date:   Sat Nov 7 02:03:30 2015 -0500
+
+    Direccion de redes sociales
+
+commit 21462acec507c73b2692a95024742f7a14dd289e
+Author: David Consa <cbdavid14@gmail.com>
+Date:   Sat Nov 7 02:01:37 2015 -0500
+
+    web de perfil registrado
+
+commit 7f16df6d134d118b4131f97abb55167b378ab14c
+Author: David Consa <cbdavid14@gmail.com>
+Date:   Sat Nov 7 01:58:26 2015 -0500
+
+    Subi foto de perfil y mi nombre
+
+commit 89d473c60c1b1eae072639f6144c9e531ca5178f
+Author: David Consa <cbdavid14@gmail.com>
+Date:   Sat Nov 7 01:49:55 2015 -0500
+
+    estos son los archivos base de mi portafolio
